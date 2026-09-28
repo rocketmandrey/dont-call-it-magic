@@ -1,0 +1,7 @@
+{
+  "name": "dont-call-it-magic",
+  "private": true,
+  "type": "module",
+  "scripts": { "render": "node render.mjs", "sheet": "node render.mjs --sheet" },
+  "dependencies": { "puppeteer-core": "25.11.0" }
+}
